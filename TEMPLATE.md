@@ -20,10 +20,14 @@ Write the problem in your own words:
 
 ## My Approach
 
-- Idea:
-- Why it works:
-- Time complexity: O(...)
-- Space complexity: O(...)
+- **Idea:** 
+  
+- **Why it works:** 
+
+- **Time complexity:** 
+  
+- **Space complexity:** 
+  
 
 ---
 
