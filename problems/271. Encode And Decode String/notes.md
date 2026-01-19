@@ -1,4 +1,4 @@
-# [Problem #271. - Encode And Decode String](https://neetcode.io/problems/string-encode-and-decode/question?list=blind75)
+# [Problem #271 - Encode And Decode String](https://neetcode.io/problems/string-encode-and-decode/question?list=blind75)
 
 - **Date solved:**: 01/15/2026
 - **Difficulty:**: Medium
